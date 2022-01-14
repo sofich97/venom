@@ -1,4 +1,4 @@
-# venom - учебный проект Glo Academy
+# Venom - Project for thriller Venom2
 # Проект выполнил: Хантаева София
 
 
